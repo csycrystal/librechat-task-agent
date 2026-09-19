@@ -1,0 +1,13 @@
+{
+  "name": "librechat-calculator-excel-mcp",
+  "version": "1.0.0",
+  "description": "MCP server: calculator + Excel data visualization for LibreChat",
+  "type": "module",
+  "main": "server.mjs",
+  "private": true,
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "xlsx": "^0.18.5",
+    "zod": "^3.24.0"
+  }
+}
